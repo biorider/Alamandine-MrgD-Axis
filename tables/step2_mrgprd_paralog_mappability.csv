@@ -1,0 +1,4 @@
+read_len,n_windows,min_mismatch_any,median_min_mismatch,frac_exact,frac_le4pct,frac_le10pct,closest
+50,917,6,20.0,0.0,0.0,0.0,"[('MRGPRX1', 6), ('MRGPRX4', 7), ('MAS1L', 8)]"
+76,891,12,33.0,0.0,0.0,0.0,"[('MRGPRX1', 12), ('MRGPRX4', 13), ('MRGPRX2', 14)]"
+100,867,19,44.0,0.0,0.0,0.0,"[('MRGPRX1', 19), ('MRGPRX4', 20), ('MRGPRX2', 21)]"

@@ -1,0 +1,4 @@
+dataset,MRGPRD,MAS1,CD14,ITGAM,CD68,ALB,MRGPRD_reads_total,expected_reads_at_1TPM
+"GSE348126 (empty vector, n=3)",0.0,0.496,541.406,82.484,0.892,0.427,0,17.4
+"GSE323383 (scrambled, n=5)",0.0,0.119,502.405,374.566,530.318,0.546,0,34.6
+"GSE318527 (CST3+/+, n=3; author TPM)",0.027,0.163,1.927,0.087,5.207,0.2,1,
